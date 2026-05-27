@@ -1,0 +1,1472 @@
+{
+  "ecopontos": [
+    {
+      "id": 1,
+      "nome": "Fundação Settaport – Centro de Reciclagem de Lixo Eletrônico",
+      "endereco": "Av. Conselheiro Nébias, 85 - Paquetá, Santos - SP, 11015-001",
+      "bairro": "Paquetá",
+      "latitude": -23.936992,
+      "longitude": -46.320704,
+      "telefone": "(13) 3221-2546",
+      "horario": "8h30-18h",
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico"
+      ],
+      "observacoes": "Centro especializado em reciclagem de lixo eletrônico"
+    },
+    {
+      "id": 2,
+      "nome": "Makro Santos",
+      "endereco": "Av. Nossa Senhora de Fátima, 1440 - Areia Branca, Santos - SP, 11085-202",
+      "bairro": "Chico de Paula / Areia Branca",
+      "latitude": -23.950537,
+      "longitude": -46.372959,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico",
+        "lampadas"
+      ],
+      "observacoes": "Atacado com múltiplos pontos de coleta"
+    },
+    {
+      "id": 3,
+      "nome": "Carrefour Praiamar",
+      "endereco": "R. Alexandre Martins, 80 - Aparecida, Santos - SP, 11025-202",
+      "bairro": "Aparecida",
+      "latitude": -23.978562,
+      "longitude": -46.308552,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico",
+        "lampadas"
+      ],
+      "observacoes": "Local de grande fluxo, dentro do shopping"
+    },
+    {
+      "id": 4,
+      "nome": "Carrefour Conselheiro",
+      "endereco": "Av. Conselheiro Nébias, 802 - Boqueirão, Santos - SP, 11045-002",
+      "bairro": "Boqueirão",
+      "latitude": -23.969486,
+      "longitude": -46.324251,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico",
+        "lampadas"
+      ],
+      "observacoes": "Rede Carrefour, ponto de coleta múltiplo"
+    },
+    {
+      "id": 5,
+      "nome": "Extra Hiper Santos",
+      "endereco": "Av. Ana Costa, 340 - Gonzaga, Santos - SP, 11060-000",
+      "bairro": "Gonzaga",
+      "latitude": -23.946311,
+      "longitude": -46.330365,
+      "telefone": "(13) 3229-0002",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico"
+      ],
+      "observacoes": "Supermercado com coleta de diferentes resíduos"
+    },
+    {
+      "id": 6,
+      "nome": "Casas Bahia Santos – Gonzaga",
+      "endereco": "Av. Mal. Floriano Peixoto, 22 - Gonzaga, Santos - SP, 11060-300",
+      "bairro": "Gonzaga",
+      "latitude": -23.967025,
+      "longitude": -46.336362,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico"
+      ],
+      "observacoes": "Varejo com coleta múltipla"
+    },
+    {
+      "id": 7,
+      "nome": "Casas Bahia Santos – Centro",
+      "endereco": "R. Amador Bueno, 98 - Centro, Santos - SP, 11013-150",
+      "bairro": "Centro",
+      "latitude": -23.935777,
+      "longitude": -46.329077,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico"
+      ],
+      "observacoes": "Varejo com coleta múltipla"
+    },
+    {
+      "id": 8,
+      "nome": "Kalunga – Vila Mathias",
+      "endereco": "Av. Ana Costa, 64 - Vila Mathias, Santos - SP, 11060-001",
+      "bairro": "Vila Mathias",
+      "latitude": -23.946399,
+      "longitude": -46.330428,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico"
+      ],
+      "observacoes": "Papelaria com ponto de coleta"
+    },
+    {
+      "id": 9,
+      "nome": "Shopping Praiamar",
+      "endereco": "R. Alexandre Martins, 80 - Aparecida, Santos - SP, 11025-202",
+      "bairro": "Aparecida",
+      "latitude": -23.977067,
+      "longitude": -46.309850,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias",
+        "eletronico"
+      ],
+      "observacoes": "Shopping com ponto de coleta múltipla"
+    },
+    {
+      "id": 10,
+      "nome": "Atacadão",
+      "endereco": "Av. Nossa Senhora de Fátima, 298 - Chico de Paula, Santos - SP, 11085-000",
+      "bairro": "Chico de Paula",
+      "latitude": -23.93477,
+      "longitude": -46.361992,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 11,
+      "nome": "Empório Nova Era",
+      "endereco": "R. Dr. Cunha Moreira, 210 - Encruzilhada, Santos - SP, 11050-241",
+      "bairro": "Encruzilhada",
+      "latitude": -23.954839,
+      "longitude": -46.330391,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 12,
+      "nome": "Senac Santos",
+      "endereco": "Av. Conselheiro Nébias, 309 - Vila Mathias, Santos - SP, 11045-001",
+      "bairro": "Vila Mathias",
+      "latitude": -23.947297,
+      "longitude": -46.321686,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 13,
+      "nome": "SINCOMÉRCIO/BS",
+      "endereco": "Av. Ana Costa, 25 - Vila Mathias, Santos - SP, 11060-001",
+      "bairro": "Vila Mathias",
+      "latitude": -23.94434,
+      "longitude": -46.329802,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 14,
+      "nome": "Supermercado Bolshoi",
+      "endereco": "R. Carvalho de Mendonça, 336 - Campo Grande, Santos - SP, 11075-000",
+      "bairro": "Campo Grande",
+      "latitude": -23.953935,
+      "longitude": -46.338977,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 15,
+      "nome": "Extra – Boqueirão",
+      "endereco": "Av. Afonso Pena, 270 - Boqueirão, Santos - SP, 11060-003",
+      "bairro": "Boqueirão",
+      "latitude": -23.959256,
+      "longitude": -46.319586,
+      "telefone": "(13) 3238-7613",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 16,
+      "nome": "Extra – Bernardino de Campos",
+      "endereco": "Av. Bernardino de Campos, 379 - Gonzaga, Santos - SP, 11065-001",
+      "bairro": "Gonzaga",
+      "latitude": -23.965062,
+      "longitude": -46.338639,
+      "telefone": "(13) 3232-2469",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 17,
+      "nome": "Extra – Marapé",
+      "endereco": "Av. Sen. Pinheiro Machado, 143 - Marapé, Santos - SP, 11075-001",
+      "bairro": "Marapé",
+      "latitude": -23.947037,
+      "longitude": -46.335669,
+      "telefone": "(13) 3222-3583",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 18,
+      "nome": "Pão de Açúcar – Bartolomeu",
+      "endereco": "Av. Bartolomeu de Gusmão, 45 - Aparecida, Santos - SP, 11045-902",
+      "bairro": "Aparecida",
+      "latitude": -23.980505,
+      "longitude": -46.312417,
+      "telefone": "(13) 3231-3021",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 19,
+      "nome": "Pão de Açúcar 2193",
+      "endereco": "Av. Conselheiro Nébias, 867 - Paquetá, Santos - SP, 11045-003",
+      "bairro": "Paquetá",
+      "latitude": -23.972253,
+      "longitude": -46.324152,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 20,
+      "nome": "Pão de Açúcar 1747",
+      "endereco": "Av. Dr. Pedro Lessa, 768 - Ponta da Praia, Santos - SP, 11030-000",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.978879,
+      "longitude": -46.297628,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 21,
+      "nome": "Pão de Açúcar – Presidente Wilson",
+      "endereco": "Av. Presidente Wilson, 94 - Gonzaga, Santos - SP, 11065-200",
+      "bairro": "Gonzaga",
+      "latitude": -23.968851,
+      "longitude": -46.33628,
+      "telefone": "(13) 3237-3934",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 22,
+      "nome": "Mini Extra 5109",
+      "endereco": "R. Amador Bueno, 185 - Centro, Santos - SP, 11013-150",
+      "bairro": "Centro",
+      "latitude": -23.936008,
+      "longitude": -46.326732,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 23,
+      "nome": "Mini Extra 5094",
+      "endereco": "R. Oswaldo Cochrane, 220 - Embaré, Santos - SP, 11040-111",
+      "bairro": "Embaré",
+      "latitude": -23.970302,
+      "longitude": -46.312789,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 24,
+      "nome": "Supermercado Varandas",
+      "endereco": "Av. Sen. Pinheiro Machado, 643 - Vila Mathias, Santos - SP, 11075-001",
+      "bairro": "Vila Mathias",
+      "latitude": -23.945556,
+      "longitude": -46.33393,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 25,
+      "nome": "Unimed Santos",
+      "endereco": "Av. Ana Costa, 430 - Gonzaga, Santos - SP, 11060-002",
+      "bairro": "Gonzaga",
+      "latitude": -23.963195,
+      "longitude": -46.332599,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 26,
+      "nome": "Kalunga – Gonzaga",
+      "endereco": "Av. Ana Costa, 364 - Gonzaga, Santos - SP, 11060-002",
+      "bairro": "Gonzaga",
+      "latitude": -23.959861,
+      "longitude": -46.332186,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 27,
+      "nome": "Makro – Areia Branca",
+      "endereco": "Av. Nossa Senhora de Fátima, 1440 - Areia Branca, Santos - SP, 11085-202",
+      "bairro": "Areia Branca",
+      "latitude": -23.950537,
+      "longitude": -46.372959,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 28,
+      "nome": "Multicoisas",
+      "endereco": "Av. Ana Costa, 383 - Gonzaga, Santos - SP, 11060-002",
+      "bairro": "Gonzaga",
+      "latitude": -23.961059,
+      "longitude": -46.331878,
+      "telefone": "(13) 3289-9988",
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 29,
+      "nome": "Mini Extra – Ponta da Praia",
+      "endereco": "R. Ver. Henrique Soler, 239 - Ponta da Praia, Santos - SP, 11030-400",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.982887,
+      "longitude": -46.297366,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 30,
+      "nome": "Lojas Cem",
+      "endereco": "R. João Pessoa, 185 - Centro, Santos - SP, 11013-030",
+      "bairro": "Centro",
+      "latitude": -23.935012,
+      "longitude": -46.325804,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "pilhas_baterias"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 31,
+      "nome": "ANDRA",
+      "endereco": "Av. Sen. Feijó, 414 - Vila Mathias, Santos - SP, 11045-000",
+      "bairro": "Vila Mathias",
+      "latitude": -23.944308,
+      "longitude": -46.326454,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "lampadas"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 32,
+      "nome": "Roldão",
+      "endereco": "R. Comendador Martins, 241 - Vila Mathias, Santos - SP, 11045-000",
+      "bairro": "Vila Mathias",
+      "latitude": -23.946241,
+      "longitude": -46.327875,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "lampadas"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 33,
+      "nome": "CONSTRUDECOR",
+      "endereco": "R. Alexandre Martins, 80 - Aparecida, Santos - SP, 11025-202",
+      "bairro": "Aparecida",
+      "latitude": -23.977308,
+      "longitude": -46.310236,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "lampadas"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 34,
+      "nome": "VOLTLUZ",
+      "endereco": "Av. Dr. Pedro Lessa, 993 - Ponta da Praia, Santos - SP, 11030-002",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.978879,
+      "longitude": -46.297628,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "lampadas"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 35,
+      "nome": "ASSAÍ",
+      "endereco": "Av. Nossa Senhora de Fátima, 50 - Saboó, Santos - SP, 11085-000",
+      "bairro": "Saboó",
+      "latitude": -23.93565,
+      "longitude": -46.359859,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "lampadas"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 36,
+      "nome": "Ginásio Rebouças",
+      "endereco": "Pça. Eng. Rebouças, s/n - Ponta da Praia, Santos - SP, 11025-000",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.980721,
+      "longitude": -46.300311,
+      "telefone": "(13) 3261-1980",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 37,
+      "nome": "RC Seguros",
+      "endereco": "Av. Ana Costa, 452 - Gonzaga, Santos - SP, 11060-002",
+      "bairro": "Gonzaga",
+      "latitude": -23.964157,
+      "longitude": -46.332696,
+      "telefone": "(13) 3877-5041",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 38,
+      "nome": "Escola Estadual Aristóteles Ferreira",
+      "endereco": "Av. Epitácio Pessoa, 466 - Aparecida, Santos - SP, 11045-401",
+      "bairro": "Aparecida",
+      "latitude": -23.979746,
+      "longitude": -46.309524,
+      "telefone": "(13) 3269-9998",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 39,
+      "nome": "IBAMA Santos",
+      "endereco": "Av. Cel. Joaquim Montenegro, 297 - Ponta da Praia, Santos - SP, 11030-400",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.979795,
+      "longitude": -46.303807,
+      "telefone": "(13) 3227-5775",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 40,
+      "nome": "Soc. Melhoramentos Piratininga",
+      "endereco": "R. Cel. José João Jorge, s/n - Piratininga, Santos - SP, 11085-420",
+      "bairro": "Piratininga",
+      "latitude": -23.925685,
+      "longitude": -46.388387,
+      "telefone": "(13) 3296-3944",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 41,
+      "nome": "Soc. Melhoramentos São Manoel",
+      "endereco": "Pça. Nicolau Geraigire, 254 - São Manoel, Santos - SP, 11085-400",
+      "bairro": "São Manoel",
+      "latitude": -23.929929,
+      "longitude": -46.379756,
+      "telefone": "(13) 98839-7834",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 42,
+      "nome": "APPC – Ass. Portadores Paralisia Cerebral",
+      "endereco": "Av. Sen. Pinheiro Machado, 945 - Marapé, Santos - SP, 11075-001",
+      "bairro": "Marapé",
+      "latitude": -23.950672,
+      "longitude": -46.341761,
+      "telefone": "(13) 3223-7040",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": null
+    },
+    {
+      "id": 43,
+      "nome": "UME Avelino da Paz Vieira",
+      "endereco": "R. Sete de Setembro, 22 - Vila Nova, Santos - SP, 11013-350",
+      "bairro": "Centro",
+      "latitude": -23.939746,
+      "longitude": -46.325276,
+      "telefone": "(13) 3232-6385",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 44,
+      "nome": "UME Auxiliadora da Instrução",
+      "endereco": "Pça. Rubens Ferreira Martins, 8 - Estuário, Santos - SP, 11020-100",
+      "bairro": "Centro",
+      "latitude": -23.965025,
+      "longitude": -46.306827,
+      "telefone": "(13) 3227-2823",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 45,
+      "nome": "UME Colégio Santista",
+      "endereco": "R. Sete de Setembro, 34 - Vila Nova, Santos - SP, 11013-350",
+      "bairro": "Centro",
+      "latitude": -23.940068,
+      "longitude": -46.323835,
+      "telefone": "(13) 3228-1818",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 46,
+      "nome": "UME Pedro II",
+      "endereco": "Av. Prof. Aristóteles Menezes, 41 - Ponta da Praia, Santos - SP, 11030-300",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.979878,
+      "longitude": -46.299854,
+      "telefone": "(13) 3261-1181",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 47,
+      "nome": "UME Dr. Porchat de Assis",
+      "endereco": "R. Ana Pimentel, 23 - Ponta da Praia, Santos - SP, 11030-300",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.979628,
+      "longitude": -46.29894,
+      "telefone": "(13) 3261-5583",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 48,
+      "nome": "UME Gota de Leite",
+      "endereco": "R. Xavier Pinheiro, 217 - Encruzilhada, Santos - SP, 11050-020",
+      "bairro": "Encruzilhada",
+      "latitude": -23.950308,
+      "longitude": -46.322929,
+      "telefone": "(13) 3235-1695",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 49,
+      "nome": "UME João Papa Sobrinho",
+      "endereco": "R. Goiás, 145 - Gonzaga, Santos - SP, 11060-380",
+      "bairro": "Gonzaga",
+      "latitude": -23.961025,
+      "longitude": -46.328809,
+      "telefone": "(13) 3222-2201",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 50,
+      "nome": "UME Mario de Almeida Alcântara",
+      "endereco": "R. Mansueto Pierotti, 75 - Valongo, Santos - SP, 11010-060",
+      "bairro": "Valongo",
+      "latitude": -23.93295,
+      "longitude": -46.33639,
+      "telefone": "(13) 3219-3475",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 51,
+      "nome": "UME Dr. Alcides Lobo Viana",
+      "endereco": "Av. Sen. Pinheiro Machado, 606 - Marapé, Santos - SP, 11075-001",
+      "bairro": "Marapé",
+      "latitude": -23.954388,
+      "longitude": -46.344451,
+      "telefone": "(13) 3239-4170",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 52,
+      "nome": "UME Padre Waldemar Valle Martins",
+      "endereco": "R. Vinte e Oito de Setembro, 201 - Macuco, Santos - SP, 11015-110",
+      "bairro": "Macuco",
+      "latitude": -23.950863,
+      "longitude": -46.315394,
+      "telefone": "(13) 3221-8255",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 53,
+      "nome": "UME Ayrton Senna da Silva",
+      "endereco": "Av. Sen. Pinheiro Machado, 617 - Campo Grande, Santos - SP, 11075-003",
+      "bairro": "Campo Grande",
+      "latitude": -23.959629,
+      "longitude": -46.344778,
+      "telefone": "(13) 3252-3732",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 54,
+      "nome": "UME Maria Luiza Alonso Silva",
+      "endereco": "Pça. Eng. José Rebouças, s/n - Ponta da Praia, Santos - SP, 11030-000",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.980721,
+      "longitude": -46.300311,
+      "telefone": "(13) 3261-4907",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 55,
+      "nome": "UME Leonor Mendes de Barros",
+      "endereco": "Pça. Fernandes Pacheco, 1 - Gonzaga, Santos - SP, 11060-410",
+      "bairro": "Gonzaga",
+      "latitude": -23.963801,
+      "longitude": -46.335433,
+      "telefone": "(13) 3284-1814",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 56,
+      "nome": "UME Cidade de Santos",
+      "endereco": "Av. Sen. Dantas, 410 - Embaré, Santos - SP, 11210-115",
+      "bairro": "Embaré",
+      "latitude": -23.965365,
+      "longitude": -46.314284,
+      "telefone": "(13) 3231-1212",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 57,
+      "nome": "UME Doutor Dino Bueno",
+      "endereco": "R. Dr. Cunha Moreira, 134 - Encruzilhada, Santos - SP, 11050-241",
+      "bairro": "Encruzilhada",
+      "latitude": -23.954473,
+      "longitude": -46.328,
+      "telefone": "(13) 3232-9757",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 58,
+      "nome": "UME Professor Florestan Fernandes",
+      "endereco": "R. Oswaldo Cochrane, 91 - Embaré, Santos - SP, 11040-111",
+      "bairro": "Embaré",
+      "latitude": -23.973921,
+      "longitude": -46.316024,
+      "telefone": "(13) 3227-2120",
+      "horario": null,
+      "materiais": [
+        "oleo"
+      ],
+      "observacoes": "Programa Meio Ambiente nas Escolas (PMANE)"
+    },
+    {
+      "id": 59,
+      "nome": "Jardim Botânico – Jd. Santa Maria",
+      "endereco": "R. João Fracaroli, s/n - Jardim Santa Maria, Santos - SP, 11085-660",
+      "bairro": "Jardim Santa Maria",
+      "latitude": -23.937884,
+      "longitude": -46.37185,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 60,
+      "nome": "Av. Álvaro Guimarães 62 – Rádio Clube",
+      "endereco": "Av. Álvaro Guimarães, 62 - Rádio Clube, Santos - SP, 11085-500",
+      "bairro": "Rádio Clube",
+      "latitude": -23.942889,
+      "longitude": -46.38136,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 61,
+      "nome": "Praça Francisco Prestes Maia – Vila São Jorge",
+      "endereco": "Pça. Francisco Prestes Maia - Vila São Jorge, Santos - SP, 11085-540",
+      "bairro": "Vila São Jorge",
+      "latitude": -23.930735,
+      "longitude": -46.365631,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 62,
+      "nome": "Av. Afonso Schmidth 456 – CDHU Jardim Castelo",
+      "endereco": "Av. Afonso Schmidth, 456 - Jardim Castelo, Santos - SP, 11085-580",
+      "bairro": "Jardim Castelo",
+      "latitude": -23.946845,
+      "longitude": -46.377467,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 63,
+      "nome": "Praça dos Ex-Combatentes – Jd. Rádio Clube",
+      "endereco": "R. Francisco Domenico - Rádio Clube, Santos - SP, 11085-500",
+      "bairro": "Rádio Clube",
+      "latitude": -23.939445,
+      "longitude": -46.378793,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 64,
+      "nome": "Praça Nicolau Gigaigire – São Manoel",
+      "endereco": "Pça. Nicolau Geraigire - São Manoel, Santos - SP, 11085-400",
+      "bairro": "São Manoel",
+      "latitude": -23.929533,
+      "longitude": -46.378982,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 65,
+      "nome": "Rua Angelo Martins Meleiro 251 – Jd. Caneleira",
+      "endereco": "R. Angelo Martins Meleiro, 251 - Caneleira, Santos - SP, 11085-430",
+      "bairro": "Caneleira",
+      "latitude": -23.943743,
+      "longitude": -46.365877,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 66,
+      "nome": "Praça do 14 – Jardim Castelo",
+      "endereco": "R. Laurindo Chaves - Jardim Castelo, Santos - SP, 11085-580",
+      "bairro": "Jardim Castelo",
+      "latitude": -23.944793,
+      "longitude": -46.37859,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 67,
+      "nome": "Vila Criativa – Av. Hugo Maia",
+      "endereco": "Av. Hugo Maia - Rádio Clube, Santos - SP, 11085-500",
+      "bairro": "Rádio Clube",
+      "latitude": -23.940035,
+      "longitude": -46.382167,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 68,
+      "nome": "Praça Guadalajara – Nova Cintra",
+      "endereco": "Pça. Guadalajara - Nova Cintra, Santos - SP, 11085-640",
+      "bairro": "Nova Cintra",
+      "latitude": -23.944085,
+      "longitude": -46.362417,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 69,
+      "nome": "Rua 28 de Setembro 202 – Macuco",
+      "endereco": "R. Vinte e Oito de Setembro, 202 - Macuco, Santos - SP, 11015-110",
+      "bairro": "Macuco",
+      "latitude": -23.950863,
+      "longitude": -46.315394,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV – próximo à UME Passos Sobrinho"
+    },
+    {
+      "id": 70,
+      "nome": "Rua Barão de Ramalho c/ João Luso 23 – Macuco",
+      "endereco": "R. Barão de Ramalho, 23 - Macuco, Santos - SP, 11015-110",
+      "bairro": "Macuco",
+      "latitude": -23.951503,
+      "longitude": -46.315476,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 71,
+      "nome": "UME Barão do Rio Branco – Campo Grande",
+      "endereco": "R. Visconde de Cairu, 217 - Campo Grande, Santos - SP, 11075-000",
+      "bairro": "Campo Grande",
+      "latitude": -23.960341,
+      "longitude": -46.340478,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 72,
+      "nome": "Largo Washington Di Giovanni – Jabaquara",
+      "endereco": "Av. Rangel Pestana, s/n - Jabaquara, Santos - SP, 11085-001",
+      "bairro": "Jabaquara",
+      "latitude": -23.941826,
+      "longitude": -46.341886,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 73,
+      "nome": "Rua Carvalho de Mendonça c/ Senador Feijó – Encruzilhada",
+      "endereco": "R. Carvalho de Mendonça, 103 - Encruzilhada, Santos - SP, 11050-241",
+      "bairro": "Encruzilhada",
+      "latitude": -23.951544,
+      "longitude": -46.32712,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 74,
+      "nome": "Praça Washington (Orquidário) – José Menino",
+      "endereco": "Pça. Washington, s/n - José Menino, Santos - SP, 11025-000",
+      "bairro": "José Menino",
+      "latitude": -23.965354,
+      "longitude": -46.351107,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV – Orquidário Municipal"
+    },
+    {
+      "id": 75,
+      "nome": "Estádio Portuguesa Santista – Marapé",
+      "endereco": "Av. Sen. Pinheiro Machado, 240 - Marapé, Santos - SP, 11075-001",
+      "bairro": "Marapé",
+      "latitude": -23.950672,
+      "longitude": -46.341761,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 76,
+      "nome": "Soc. Melhoramentos Marapé – Peçanha c/ Napoleão Laureano",
+      "endereco": "R. Nilo Peçanha - Marapé, Santos - SP, 11075-001",
+      "bairro": "Marapé",
+      "latitude": -23.950469,
+      "longitude": -46.346196,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 77,
+      "nome": "Praça José Rebouças – Ponta da Praia",
+      "endereco": "Pça. José Rebouças, s/n - Ponta da Praia, Santos - SP, 11030-000",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.980721,
+      "longitude": -46.300311,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 78,
+      "nome": "Mercado de Peixes – Ponta da Praia",
+      "endereco": "Av. Gov. Mário Covas, 3050 - Ponta da Praia, Santos - SP, 11030-400",
+      "bairro": "Ponta da Praia",
+      "latitude": -23.983238,
+      "longitude": -46.294697,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 79,
+      "nome": "Canal 1 – Orla",
+      "endereco": "Av. Bartolomeu de Gusmão - Canal 1, Gonzaga, Santos - SP, 11065-900",
+      "bairro": "Orla",
+      "latitude": 23.968156,
+      "longitude": -46.345693,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 80,
+      "nome": "Canal 2 – Orla",
+      "endereco": "Av. Bartolomeu de Gusmão - Canal 2, Gonzaga, Santos - SP, 11065-900",
+      "bairro": "Orla",
+      "latitude": -23.968578,
+      "longitude": -46.339190,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 81,
+      "nome": "Canal 3 – Orla (2 PEVs)",
+      "endereco": "Av. Bartolomeu de Gusmão - Canal 3, Gonzaga, Santos - SP, 11065-900",
+      "bairro": "Orla",
+      "latitude": -23.970930,
+      "longitude": -46.329332,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 82,
+      "nome": "Canal 4 – Em frente Igreja do Embaré",
+      "endereco": "Av. Bartolomeu de Gusmão - Canal 4, Embaré, Santos - SP, 11040-000",
+      "bairro": "Orla",
+      "latitude": -23.974568,
+      "longitude": -46.320294,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "Necessidade de manutenção"
+    },
+    {
+      "id": 83,
+      "nome": "Canal 5 – Orla",
+      "endereco": "Av. Bartolomeu de Gusmão - Canal 5, Embaré, Santos - SP, 11040-000",
+      "bairro": "Orla",
+      "latitude": -23.978126,
+      "longitude": -46.315642,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 84,
+      "nome": "Canal 6 – Orla (2 PEVs)",
+      "endereco": "Av. Bartolomeu de Gusmão - Canal 6, Embaré, Santos - SP, 11040-000",
+      "bairro": "Orla",
+      "latitude": -23.983978,
+      "longitude": -46.309419,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 85,
+      "nome": "Aquário Municipal",
+      "endereco": "Pça. Luiz La Scala, s/n - Gonzaga, Santos - SP, 11065-400",
+      "bairro": "Orla",
+      "latitude": -23.944796,
+      "longitude": -46.334065,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 86,
+      "nome": "Av. Conselheiro Nébias 811 – Boqueirão",
+      "endereco": "Av. Conselheiro Nébias, 811 - Boqueirão, Santos - SP, 11045-002",
+      "bairro": "Boqueirão",
+      "latitude": -23.970866,
+      "longitude": -46.324038,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 87,
+      "nome": "Praça Fernandes Pacheco – Gonzaga",
+      "endereco": "Pça. Fernandes Pacheco, 1 - Gonzaga, Santos - SP, 11060-410",
+      "bairro": "Gonzaga",
+      "latitude": -23.963801,
+      "longitude": -46.335433,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV (2 PEVs)"
+    },
+    {
+      "id": 88,
+      "nome": "Rua Alexandre Martins c/ Vergueiro Steidel – Aparecida (BNH)",
+      "endereco": "R. Alexandre Martins - Aparecida, Santos - SP, 11025-202",
+      "bairro": "Aparecida",
+      "latitude": -23.972809,
+      "longitude": -46.307416,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 89,
+      "nome": "Subprefeitura Caruara – Área Continental",
+      "endereco": "R. Andrade Soares, s/n - Caruara, Santos - SP, 11490-000",
+      "bairro": "Área Continental",
+      "latitude": -20.900864,
+      "longitude": -51.391636,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 90,
+      "nome": "Lateral do Posto 1 – José Menino",
+      "endereco": "Av. Pres. Wilson, s/n - José Menino, Santos - SP, 11025-900",
+      "bairro": "José Menino",
+      "latitude": -23.968585,
+      "longitude": -46.355334,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 91,
+      "nome": "Praça da República",
+      "endereco": "Pça. da República, s/n - Centro, Santos - SP, 11010-100",
+      "bairro": "Centro",
+      "latitude": -23.934898,
+      "longitude": -46.331795,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 92,
+      "nome": "Praça Rui Barbosa",
+      "endereco": "Pça. Rui Barbosa, s/n - Centro, Santos - SP, 11010-100",
+      "bairro": "Centro",
+      "latitude": -23.934898,
+      "longitude": -46.331795,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 93,
+      "nome": "Av. São Francisco 369 c/ Conselheiro Nébias",
+      "endereco": "Av. São Francisco, 369 - Centro, Santos - SP, 11015-001",
+      "bairro": "Centro",
+      "latitude": -23.95054,
+      "longitude": -46.329507,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 94,
+      "nome": "Rua João Pessoa 541 – Centro",
+      "endereco": "R. João Pessoa, 541 - Centro, Santos - SP, 11013-030",
+      "bairro": "Centro",
+      "latitude": -23.936834,
+      "longitude": -46.316686,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 95,
+      "nome": "Largo Marquês de Monte Alegre – Valongo",
+      "endereco": "Largo Marquês de Monte Alegre - Valongo, Santos - SP, 11010-002",
+      "bairro": "Valongo",
+      "latitude": -23.931033,
+      "longitude": -46.333258,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "vidro"
+      ],
+      "observacoes": "PEV"
+    },
+    {
+      "id": 96,
+      "nome": "Clínica Radiológica de Santos",
+      "endereco": "Av. Conselheiro Nébias, 540 - Encruzilhada, Santos - SP, 11045-002",
+      "bairro": "Encruzilhada",
+      "latitude": -23.957218,
+      "longitude": -46.322904,
+      "telefone": "(13) 3228-2525",
+      "horario": null,
+      "materiais": [
+        "filmes_radiologicos"
+      ],
+      "observacoes": "Clínica especializada em exames de imagem"
+    },
+    {
+      "id": 97,
+      "nome": "Clínica Mega Imagem",
+      "endereco": "R. Mato Grosso, 79 - Boqueirão, Santos - SP, 11045-070",
+      "bairro": "Boqueirão",
+      "latitude": -23.964852,
+      "longitude": -46.32428,
+      "telefone": "(13) 3202-1950",
+      "horario": null,
+      "materiais": [
+        "filmes_radiologicos"
+      ],
+      "observacoes": "Centro de diagnóstico por imagem"
+    },
+    {
+      "id": 98,
+      "nome": "Pneus Portuária",
+      "endereco": "R. Boris Kaufman, 261 - Chico de Paula, Santos - SP, 11085-080",
+      "bairro": "Chico de Paula",
+      "latitude": -23.932539,
+      "longitude": -46.362073,
+      "telefone": "(13) 3299-9900",
+      "horario": null,
+      "materiais": [
+        "pneus"
+      ],
+      "observacoes": "Empresa especializada em pneus"
+    },
+    {
+      "id": 99,
+      "nome": "Parque Municipal Roberto Mário Santini (SEMES)",
+      "endereco": "Av. Pres. Wilson, s/n - José Menino, Santos - SP, 11025-900",
+      "bairro": "José Menino",
+      "latitude": -23.968585,
+      "longitude": -46.355334,
+      "telefone": "(13) 3225-1641",
+      "horario": null,
+      "materiais": [
+        "parafina"
+      ],
+      "observacoes": "Local público administrado pela SEMES"
+    },
+    {
+      "id": 100,
+      "nome": "Farmácias de Santos",
+      "endereco": "",
+      "bairro": "Diversos",
+      "latitude": -23.95,
+      "longitude": -46.33,
+      "telefone": null,
+      "horario": "Conforme horário comercial",
+      "materiais": [
+        "remedios"
+      ],
+      "observacoes": "Obrigatório pela legislação federal. Medicamentos vencidos."
+    },
+    {
+      "id": 101,
+      "nome": "Postos de Saúde de Santos",
+      "endereco": "",
+      "bairro": "Diversos",
+      "latitude": -23.951,
+      "longitude": -46.331,
+      "telefone": null,
+      "horario": "Conforme horário de atendimento",
+      "materiais": [
+        "remedios"
+      ],
+      "observacoes": "Sistema logístico reverso. Medicamentos vencidos."
+    },
+    {
+      "id": 102,
+      "nome": "Hospitais de Santos",
+      "endereco": "",
+      "bairro": "Diversos",
+      "latitude": -23.949,
+      "longitude": -46.329,
+      "telefone": null,
+      "horario": "Conforme horário de atendimento",
+      "materiais": [
+        "remedios"
+      ],
+      "observacoes": "Obrigatório pela legislação. Medicamentos vencidos."
+    },
+    {
+      "id": 103,
+      "nome": "Correios – Agência Santos",
+      "endereco": "R. Cidade de Toledo, 41 - Centro, Santos - SP, 11010-020",
+      "bairro": "Centro",
+      "latitude": -23.933201,
+      "longitude": -46.327975,
+      "telefone": null,
+      "horario": "Conforme horário de atendimento dos Correios",
+      "materiais": [
+        "capsulas_cafe"
+      ],
+      "observacoes": "Ponto oficial de coleta de cápsulas de café usadas"
+    },
+    {
+      "id": 104,
+      "nome": "Shopping Parque Balneário",
+      "endereco": "Av. Ana Costa, 549 - Gonzaga, Santos - SP, 11060-003",
+      "bairro": "Gonzaga",
+      "latitude": -23.968691,
+      "longitude": -46.332829,
+      "telefone": null,
+      "horario": null,
+      "materiais": [
+        "eletronico"
+      ],
+      "observacoes": "Shopping"
+    }
+  ]
+}

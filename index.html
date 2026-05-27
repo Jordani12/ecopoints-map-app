@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ecopontos Santos – SP</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <header>
+    <div class="header-icon">♻</div>
+    <h1>Ecopontos Santos – SP</h1>
+    <span id="contagem-header">carregando...</span>
+  </header>
+
+  <!-- BARRA DE BUSCA -->
+  <div id="barra-busca">
+    <input type="text" id="busca" placeholder="🔍  Buscar por nome, bairro ou endereço..."/>
+    <button id="btn-localizar" onclick="localizarMe()">📍 Me localizar</button>
+  </div>
+
+  <!-- FILTROS POR MATERIAL -->
+  <div id="filtros">
+    <button class="filtro-btn ativo" data-tipo="todos"               onclick="filtrar('todos', this)">
+      <span class="dot" style="background:white;"></span> Todos
+    </button>
+    <button class="filtro-btn" data-tipo="pilhas_baterias"           onclick="filtrar('pilhas_baterias', this)">
+      <span class="dot" style="background:#e5a800;"></span> Pilhas e Baterias
+    </button>
+    <button class="filtro-btn" data-tipo="eletronico"                onclick="filtrar('eletronico', this)">
+      <span class="dot" style="background:#d85a30;"></span> Eletrônicos
+    </button>
+    <button class="filtro-btn" data-tipo="vidro"                     onclick="filtrar('vidro', this)">
+      <span class="dot" style="background:#534ab7;"></span> Vidro
+    </button>
+    <button class="filtro-btn" data-tipo="lampadas"                  onclick="filtrar('lampadas', this)">
+      <span class="dot" style="background:#378add;"></span> Lâmpadas
+    </button>
+    <button class="filtro-btn" data-tipo="oleo"                      onclick="filtrar('oleo', this)">
+      <span class="dot" style="background:#639922;"></span> Óleo de Cozinha
+    </button>
+    <button class="filtro-btn" data-tipo="remedios"                  onclick="filtrar('remedios', this)">
+      <span class="dot" style="background:#e24b4a;"></span> Remédios
+    </button>
+    <button class="filtro-btn" data-tipo="pneus"                     onclick="filtrar('pneus', this)">
+      <span class="dot" style="background:#444;"></span> Pneus
+    </button>
+    <button class="filtro-btn" data-tipo="filmes_radiologicos"       onclick="filtrar('filmes_radiologicos', this)">
+      <span class="dot" style="background:#185fa5;"></span> Filmes Radiológicos
+    </button>
+    <button class="filtro-btn" data-tipo="parafina"                  onclick="filtrar('parafina', this)">
+      <span class="dot" style="background:#ba7517;"></span> Parafina
+    </button>
+    <button class="filtro-btn" data-tipo="capsulas_cafe"             onclick="filtrar('capsulas_cafe', this)">
+      <span class="dot" style="background:#7f4e1e;"></span> Cápsulas de Café
+    </button>
+  </div>
+
+  <!-- MAPA + PAINEL LATERAL -->
+  <div id="container">
+    <div id="map"></div>
+
+    <div id="painel">
+      <div id="painel-header">
+        Ecopontos encontrados: <span id="contagem">–</span>
+      </div>
+      <div id="lista-ecopontos"></div>
+      <div id="sem-resultados">Nenhum ecoponto encontrado.</div>
+    </div>
+  </div>
+
+  <!-- POPUP DE DETALHES -->
+  <div id="info-popup">
+    <button class="fechar" onclick="fecharPopup()">×</button>
+    <h2 id="pop-nome"></h2>
+    <div class="pop-end" id="pop-end"></div>
+    <div class="popup-tags" id="pop-tags"></div>
+    <div class="pop-linha" id="pop-horario"><span class="pop-icone">🕐</span><span></span></div>
+    <div class="pop-linha" id="pop-tel"><span class="pop-icone">📞</span><span></span></div>
+    <div class="pop-linha" id="pop-obs"><span class="pop-icone">ℹ️</span><span></span></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
